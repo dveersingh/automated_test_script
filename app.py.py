@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect
 
 app = Flask(__name__)
 
-# Sample hardcoded user credentials for demonstration
+#login username and login password
 valid_users = {'admin': 'admin'}
 
 @app.route('/')
