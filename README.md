@@ -34,8 +34,8 @@ This is a basic Flask application that demonstrates a simple login functionality
 2.  Open a browser and navigate to http://localhost:5000 to access the login page.
 3.  Use the following credentials for login:
 
-Username: admin
-Password: admin
+- Username: admin
+- Password: admin
 
 
 ## Automated Testing
